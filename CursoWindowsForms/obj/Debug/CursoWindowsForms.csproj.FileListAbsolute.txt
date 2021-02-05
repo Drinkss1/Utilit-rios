@@ -1,0 +1,16 @@
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csprojAssemblyReference.cache
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.FormHelloWorld.resources
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.FormDemonstracaoKey.resources
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.FormValidaSenha.resources
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.FormMascara.resources
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.FormValidaCpf.resources
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.FormValidaCpf2.resources
+C:\Users\thiag\OneDrive\Target Sistemas\CSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.FormPrincipal.resources
